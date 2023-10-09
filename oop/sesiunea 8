@@ -1,0 +1,44 @@
+Meet IT Factory09:54
+https://www.w3schools.com/python/ref_math_pi.asp
+Meet IT Factory09:57
+def sum_2_nr(nr1, nr2):
+    suma = nr1 + nr2
+    return suma
+
+
+def is_par(nr):
+    if nr % 2 == 0:
+        return True
+    else:
+        return False
+
+
+def total_chars(
+        nume,
+        prenume,
+        nume_mijlociu
+):
+    total = len(nume) + len(prenume) + len(nume_mijlociu)
+    return total
+
+
+def aria_dreptunghiului(lungimea, latimea):
+    aria = lungimea * latimea
+    return aria
+
+def aria_cercului(raza):
+    pi = 3.14159265359
+    aria = pi * raza * raza
+    return aria
+Dorian Ciuca09:58
+vasile te luam in carca bro don't give up :)
+sa fiu sincer te concetrezi sa le faci si dupa uiti sa zici ca ai ramas in urma sa fiu sincer :))))
+Dorian Ciuca10:04
+multumes multumesc apreciez
+nu renunta bro
+:P
+Raul Deca10:04
+>:D<
+Dorian Ciuca10:06
+stai ma chill
+uitate must si pe ce ti-am trimis pe discord ca e super k

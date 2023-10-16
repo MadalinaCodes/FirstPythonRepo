@@ -175,5 +175,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-private_file2.txt
-private-file/
+private-folder/
+private_file2
+

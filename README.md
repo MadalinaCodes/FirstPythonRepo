@@ -1,1 +1,1 @@
-Curs Python
+Python basics

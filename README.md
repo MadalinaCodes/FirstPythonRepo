@@ -1,2 +1,2 @@
 Python basics
-+ teste GitHub
+GitHub tests

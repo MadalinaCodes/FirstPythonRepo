@@ -32,6 +32,9 @@ Printează rezultatul.
 # look_for = 'the '
 # print(string.count(look_for))
 
+# cea mai scurta varianta - facuta de mine
+# string = 'Coral is either the stupidest animal or the smartest rock'
+# print(string.count('the '))
 '''
 
 str = 'Coral is either the stupidest animal or the smartest rock'
@@ -107,7 +110,7 @@ else:
     print(f'Caracterul cautat este: {caracter_cautat}')
 '''
 
-
+#
 
 
 
@@ -145,7 +148,6 @@ else:
 # capitalizează acest caracter peste tot, mai puțin pentru primul și ultimul caracter => alAbAlA portocAla.
 
 '''eu - incercat - nu merge sa scot ultimul caracter si mai trebuie sa capitalizez
-st = input('text: ')
 st = input('text: ')
 # aflam dimensiunea
 dimensiune = len(st)
@@ -279,7 +281,7 @@ else:
 
 # 12.Verifică dacă x are exact 6 cifre.
 
-''' eu - done
+ eu - done
 x = int(input('x = '))
 nrcifre = len(str(x))
 if nrcifre == 6:

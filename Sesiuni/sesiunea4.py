@@ -95,8 +95,6 @@ print(set(lista))# transforma lista in set
 print(list(ff)) # transforma setul in lista
 
 
-
-
 # spoiler pentru tema
 count = 0
 for element in ss:
